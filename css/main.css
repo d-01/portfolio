@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;700&display=swap');
+
+:root {
+    --slope: 4vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Inter', sans-serif;
+}
+
+.open-resume {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: 25%;
+    color: white;
+    z-index: 1;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.block > a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.hero {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    /* background: linear-gradient(#050505 0%, #1d1d1d 100%); */
+    background: linear-gradient(#111 0%, #2e2e2e 100%);
+}
+
+.bg-pattern {
+    width: 100%;
+    height: 100%;
+    mask-image: url('../img/brain-cpu-space.png');
+    mask-size: 200px;
+    mask-position: top;
+    mask-repeat: repeat;
+    /* background: linear-gradient(#2d2d2d 0%, #050505 50%); */
+    background: linear-gradient(#323232 0%, #181818 50%);
+}
+
+.transparent-block {
+    height: 80vh;
+    width: 100%;
+}
+
+.hero-title {
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 0.8;
+    text-align: center;
+    color: white;
+    width: 100%;
+    top: 35%;
+}
+
+.hero-title-after {
+    font-weight: 100;
+    font-size: 0.84em;
+}
+
+.scrollable {
+    margin-top: -37vh;
+    padding: 32px 0;
+    background: white;
+    clip-path: polygon(0 0, 50% var(--slope), 100% 0, 100% 100%, 50% calc(100% - var(--slope)), 0 100%);
+}
+
+.block {
+    min-height: 500px;
+    padding: 64px 16px;
+}
+
+.content {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 64px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-img {
+    flex: 1;
+    min-width: 490px;
+}
+
+img, video {
+    display: block;
+    max-width: 490px;
+    margin: 0 auto;
+}
+
+.info {
+    flex: 1;
+    font-weight: 200;
+    min-width: 300px;
+    max-width: 490px;
+    color: #444;
+}
+
+.info .title {
+    --font-size: 32px;
+    font-size: var(--font-size);
+    line-height: 1.4;
+
+    text-transform: uppercase;
+    color: #222; /* #004cff */
+
+    text-decoration: dotted underline;
+    text-underline-offset: calc(var(--font-size) / 4);
+}
+
+.date, .tech-stack {
+    font-style: italic;
+    font-size: 12pt;
+}
+
+.tech-stack::before {
+    content: '• ';
+}
+
+.block:nth-of-type(even) {
+    background-color: #f6f6f6;
+    clip-path: polygon(0 var(--slope), 100% 0, 100% 100%, 0 calc(100% - var(--slope)));
+    padding: calc(64px + var(--slope)) 16px;
+}
+
+
+
