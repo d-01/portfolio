@@ -105,7 +105,7 @@
 
 *2021-09*
 
-<p align="center"><video src="img/pong-q-learning-demo.mp4" autoplay="" loop=""></video></p>
+<p align="center"><img src="img/4.png" style="zoom:67%;" /></p>
 
 * [Открыть](https://d-01.github.io/static/jupyter-export/pong-ai.html) Jupyter Notebook
 * Обучение нейросети для игры в ping-pong используя изображение с экрана (raw-pixel data).
