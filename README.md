@@ -16,7 +16,7 @@
 
 *2022-07*
 
-<img src="img/7.png" style="zoom: 67%;" />
+<p align="center"><img src="img/7.png" style="zoom: 67%;" /></p>
 
 * [github.com/d-01/graduate-2022-rec-sys](https://github.com/d-01/graduate-2022-rec-sys)
 * **Дипломная работа**
@@ -36,7 +36,7 @@
 
 *2022-07*
 
-<img src="img/8.gif" style="zoom: 67%;" />
+<p align="center"><img src="img/8.gif" style="zoom: 67%;" /></p>
 
 * [github.com/d-01/instacartlib](https://github.com/d-01/instacartlib)
 * Программная библиотека на языке Python для генерации рекомендаций из транзакционных данных *Instacart dataset* ([kaggle.com](https://bit.ly/3e8PupT)).
@@ -50,7 +50,7 @@
 
 *2022-01*
 
-<img src="img/5.png" style="zoom: 67%;" />
+<p align="center"><img src="img/5.png" style="zoom: 67%;" /></p>
 
 * [github.com/d-01/graduate-2021-dec](https://github.com/d-01/graduate-2021-dec)
 * **Дипломная работа**
@@ -66,7 +66,7 @@
 
 *2022-01*
 
-<img src="img/6.jpg" style="zoom: 67%;" />
+<p align="center"><img src="img/6.jpg" style="zoom: 67%;" /></p>
 
 * [github.com/d-01/webcam-emotion-recognition](https://github.com/d-01/webcam-emotion-recognition)
 * Работает с веб-камерой, отслеживает положение лица и определяет эмоцию.
@@ -79,7 +79,7 @@
 
 *2021-03*
 
-<img src="img/3.png" style="zoom:67%;" />
+<p align="center"><img src="img/3.png" style="zoom:67%;" /></p>
 
 * [Открыть](https://d-01.github.io/static/jupyter-export/churn-prediction.html) Jupyter Notebook
 * Сравнение 14 моделей прогнозирования оттока по качеству и производительности.
@@ -92,7 +92,7 @@
 
 *2020-07*
 
-<img src="img/2.png" style="zoom:67%;" />
+<p align="center"><img src="img/2.png" style="zoom:67%;" /></p>
 
 * [Открыть](https://d-01.github.io/static/jupyter-export/hr-analysis.html) Jupyter Notebook
 * Аналитический отчет для HR-отдела с проверкой гипотез и рекомендациями по стратегии набора персонала и реорганизации текущей структуры команд.
@@ -105,11 +105,10 @@
 
 *2021-09*
 
-<video src="img/pong-q-learning-demo.mp4" autoplay="" loop=""></video>
+<p align="center"><video src="img/pong-q-learning-demo.mp4" autoplay="" loop=""></video></p>
 
 * [Открыть](https://d-01.github.io/static/jupyter-export/pong-ai.html) Jupyter Notebook
 * Обучение нейросети для игры в ping-pong используя изображение с экрана (raw-pixel data).
 * Технологии: RL, reinforcement learning, tensorflow, gym, Q-learning, DQN, replay buffer
-
 
 
