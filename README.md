@@ -19,8 +19,7 @@
 <p align="center"><img src="img/7.png" style="zoom: 67%;" /></p>
 
 * [github.com/d-01/graduate-2022-rec-sys](https://github.com/d-01/graduate-2022-rec-sys)
-* **Дипломная работа**
-* Запись выступления на onine защите (2022-07-26) + оценка эксперта: [youtube.com](https://youtu.be/sa9garlNMqk)  (10 минут)
+* [Видео-презентация](https://youtu.be/sa9garlNMqk) (10 минут) + оценка эксперта (2022-07-26)
 * Проведено сравнение пяти различных моделей рекомендации товаров на транзакционных данных online-гипермаркета Instacart:
   1. Частотная модель (baseline)
   1. Коллаборативная фильтрация (implicit feedback)
@@ -53,8 +52,7 @@
 <p align="center"><img src="img/5.png" style="zoom: 67%;" /></p>
 
 * [github.com/d-01/graduate-2021-dec](https://github.com/d-01/graduate-2021-dec)
-* **Дипломная работа**
-* Запись выступления на onine защите (2022-01-17) + оценка эксперта: [youtube.com](https://youtu.be/PNzgEXyk66s)  (10 минут)
+* [Видео-презентация](https://youtu.be/PNzgEXyk66s) (10 минут) + оценка эксперта (2022-01-17)
 * В ходе выполнения работы обучена нейросеть для классификации изображений с лицами на 9 классов (9 эмоций).
 * Также построены две регрессионные нейросетевые модели для предсказания эмоции в виде двух VA-координат (valence-arousal разложение).
 * Процедура аугментации изображений встроена в нейросеть в виде кастомного входного keras слоя.
@@ -110,5 +108,4 @@
 * [Открыть](https://d-01.github.io/static/jupyter-export/pong-ai.html) Jupyter Notebook
 * Обучение нейросети для игры в ping-pong используя изображение с экрана (raw-pixel data).
 * Технологии: RL, reinforcement learning, tensorflow, gym, Q-learning, DQN, replay buffer
-
 
