@@ -14,18 +14,28 @@ html {
     font-family: 'Inter', sans-serif;
 }
 
-.open-resume {
-    text-decoration: none;
-    display: block;
+.menu {
+    z-index: 1;
     position: absolute;
     right: 20px;
     top: 25%;
+}
+
+.menu-item {
+    text-decoration: none;
+    display: block;
     color: white;
-    z-index: 1;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 24px;
     font-style: italic;
+    line-height: 1;
+    text-align: right;
+}
+
+.menu-item:hover {
+    transform: translateX(-5px);
+    transition: 50ms ease-in-out;
 }
 
 .block > a {
