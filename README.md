@@ -48,10 +48,10 @@
 
 <p align="center"><img src="img/ml-art.webp" alt="banner" style="zoom: 40%;" /></p>
 
-*(Источник: [codenrock.com](https://codenrock.com/contests/masters-of-arts))*
+*(Источник изображения: [codenrock.com](https://codenrock.com/contests/masters-of-arts-ml-challenge/))*
 
-* Хакатон. [Masters of Arts: ML Challenge](https://codenrock.com/contests/masters-of-arts)
-* [Лидерборд private](https://codenrock.com/contests/masters-of-arts#/rating/2406) (1-е место)
+* Хакатон. [Masters of Arts: ML Challenge](https://codenrock.com/contests/masters-of-arts-ml-challenge/)
+* [Лидерборд private](https://codenrock.com/contests/masters-of-arts-ml-challenge/leaderboards/117) (1-е место; *d-01*)
 * Датасет:
   * Train:
     * Размер: 7.11 Гб
